@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.AlgortihmAnalysis/AlgortihmAnalysis.iml" filepath="$PROJECT_DIR$/01.AlgortihmAnalysis/AlgortihmAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.Arrays/Arrays.iml" filepath="$PROJECT_DIR$/02.Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.CollectionsReview/CollectionsReview.iml" filepath="$PROJECT_DIR$/03.CollectionsReview/CollectionsReview.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-Structures-H.iml" filepath="$PROJECT_DIR$/Data-Structures-H.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/04.LinkedLists/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Stacks/Stacks.iml" filepath="$PROJECT_DIR$/05.Stacks/Stacks.iml" />
     </modules>
   </component>
 </project>

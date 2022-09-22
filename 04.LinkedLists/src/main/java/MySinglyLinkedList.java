@@ -142,8 +142,6 @@ public class MySinglyLinkedList {
             current=current.next;
         }
   }
-
-
     public void removeKthFromLast2(int k){
         Node ptr1=head;
         Node ptr2=head;
@@ -173,5 +171,17 @@ public class MySinglyLinkedList {
 
     }
 
-
+    void removeDuplicates(int[]array){
+        Node current = head;
+        Node next;
+        if (isEmpty()){
+            System.out.println("List is empty");
+        }
+        while (current.next!=null){
+            if(current.id == current.next.id){
+                next = current.next.next;
+                current.next = next;
+            }
+        }
+    }
 }

@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="24334f37-c39e-43f6-99e4-67b7a1a5e315" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data-Structures-H.iml" afterDir="false" />
+    <list default="true" id="24334f37-c39e-43f6-99e4-67b7a1a5e315" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.AlgortihmAnalysis/AlgortihmAnalysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.Arrays/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.CollectionsReview/CollectionsReview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.LinkedLists/LinkedLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05.Stacks/Stacks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.LinkedLists/src/main/java/MySinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/04.LinkedLists/src/main/java/MySinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.Stacks/src/main/java/SunsetViews.java" beforeDir="false" afterPath="$PROJECT_DIR$/05.Stacks/src/main/java/SunsetViews.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2EzNPb55c1PmG07DU2OKbpXJyk2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,10 +53,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hiraferda/Desktop/ZEROTOHERO/Data-Structures-H&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,7 +75,21 @@
       <workItem from="1663594430804" duration="74000" />
       <workItem from="1663711682312" duration="8000" />
       <workItem from="1663711697508" duration="1000" />
+      <workItem from="1663711761175" duration="3210000" />
+      <workItem from="1663719749413" duration="2617000" />
+      <workItem from="1663765667058" duration="3171000" />
+      <workItem from="1663792871477" duration="433000" />
+      <workItem from="1663795140286" duration="603000" />
+      <workItem from="1663859401960" duration="853000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1663711879665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663711879665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LinkedLists" />
+        <module name="Stacks" />
+        <module name="AlgortihmAnalysis" />
+        <module name="CollectionsReview" />
+        <module name="Arrays" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AlgortihmAnalysis" target="11" />
+      <module name="Arrays" target="13" />
+      <module name="CollectionsReview" target="11" />
+      <module name="LinkedLists" target="11" />
+      <module name="Stacks" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
